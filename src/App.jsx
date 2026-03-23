@@ -129,7 +129,7 @@ export default function App() {
       </section>
 
       <footer className="bg-gray-900 text-gray-400 text-center py-6">
-        © {new Date().getFullYear()} Projesh Bhoumik
+        © {new Date().getFullYear()} PB
       </footer>
     </div>
   );
