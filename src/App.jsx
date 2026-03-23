@@ -30,7 +30,7 @@ export default function App() {
           Specialized in real-time systems, embedded Linux, and networked audio platforms.
         </p>
         <div className="flex justify-center gap-4">
-          <a href="mailto:bhoumik.projesh@gmail.com" className="bg-white text-black px-4 py-2 rounded flex items-center gap-2">
+          <a href="mailto:" className="bg-white text-black px-4 py-2 rounded flex items-center gap-2">
             <Mail size={16} /> Email
           </a>
           <a href="https://github.com/pb-engineer08" className="border px-4 py-2 rounded flex items-center gap-2">
