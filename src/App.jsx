@@ -123,7 +123,7 @@ export default function App() {
       <section id="contact" className="py-16 text-center">
         <h3 className="text-3xl font-semibold mb-4">Get in Touch</h3>
         <p className="mb-6">Open to embedded, audio, and systems engineering roles.</p>
-        <a href="mailto:bhoumik.projesh@gmail.com" className="bg-indigo-600 text-white px-6 py-3 rounded">
+        <a href="mailto:" className="bg-indigo-600 text-white px-6 py-3 rounded">
           Contact Me
         </a>
       </section>
